@@ -1,0 +1,11 @@
+{
+  "name": "winston-discord-logger",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://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@github.com/fedenelli/winston-discord-logger.git",
+  "author": "Federico Nelli <fn.nelli@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "winston-transport": "^4.4.0"
+  }
+}
